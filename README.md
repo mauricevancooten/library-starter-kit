@@ -18,7 +18,7 @@ Library starter kit using Webpack.
 1. Install dependencies: `npm install`
 1. Run production / development environment
   * For production: `npm run compile`
-  * For development: `npm run watch`
+  * For development: `npm run compile-watch`
 
 #### Production
 
